@@ -1,0 +1,27 @@
+
+
+.intel-container {
+  background-color: #1c1c1c; 
+  color: #c0c0c0; 
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px; 
+  border-radius: 8px;
+}
+
+.intel-container h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.intel-container p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.intel-container iframe {
+  width: 100%; 
+  height: auto;
+  min-height: 600px; 
+  border: none;
+}
